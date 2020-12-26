@@ -1,0 +1,17 @@
+title: Hello, World!
+author: zhangmiaoCHN
+
+url: "https://zhangmiaoCHN.github.io"
+baseurl: "/blog"
+
+footer_only_homepage: true
+footer_text: "Powered by Jekyll & Parchment"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
