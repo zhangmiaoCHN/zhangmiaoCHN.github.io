@@ -2,7 +2,7 @@ title: Hello, World!
 author: zhangmiaoCHN
 
 url: "https://zhangmiaoCHN.github.io"
-baseurl: "/blog"
+baseurl: ""
 
 footer_only_homepage: true
 footer_text: "Powered by Jekyll & Parchment"
